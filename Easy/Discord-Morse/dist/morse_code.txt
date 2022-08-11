@@ -1,0 +1,7 @@
+plaintext: whateverthistextis
+
+cyphertext: 
+
+link to tool that converts plaintext to cyphertext:
+
+link to tool that converts cyphertext to audio:
