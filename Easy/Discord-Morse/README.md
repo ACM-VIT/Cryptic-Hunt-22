@@ -1,30 +1,29 @@
 # Discord Morse
 
 * **Category:** Easy
-* **Mode:** Online, transitions to offline
+* **Mode:** Online, transitions to offline(?)
 * **Authors:**
-  * Person 1
-  * Person 2
+  * Manav Muthanna
+  * 
 * **Points:** TBD
 
 ## Specifications
 
-* **Entry point:** `<clue>`
-* **Reward:** TBD (Usually a clue to another question)
+* **Entry point:** A riddle that leads you to "Happy" the bot
+* **Reward:** Answer to the riddle (which should be conveyed to the bot)
 
 ## Description
 
-This question revolves around interaction with a discord bot, which leads to a youtube video that contains a morse code. When decoded, the morse code provides the reward. (Insert the reasoning behind the clues and rewards provided, and detail the bot's behaviour to different inputs)
+This question revolves around interaction with a discord bot, which leads to a youtube video that contains a morse code. When decoded, the morse code provides the reward.
 
 ## Solution
 
-1. App gives `<clue>` to the user 
-2. When `<clue>` is decoded, provides the discord server link, bot's user account, and the slash command required to interact with the bot on discord (Maybe even let users dm the bot without using the hidden slash command on the server)
-3. On using the right slash command (or dm'ing the right message to the bot), the bot provides `<riddle>`
-4. On solving and replying to the bot with the right answer to `<riddle>`, the bot provides the youtube video link
-5. Solving the youtube video link provides the user with the reward (Either the morse code is the reward, or the app takes the decoded string and provides the reward)
+1. App gives the riddle to the user 
+2. When the riddle is decoded, provides the discord server link, bot's user account, and the slash command required to interact with the bot on discord (Maybe even let users dm the bot without using the hidden slash command on the server)
+3. On using the right slash command, the bot provides a link (yt video)
+4. Solving the youtube video link provides the user with the co-ordinates of a location
 
 ## Hints:
 
- - waegqwr
- - SRGEWTG
+ - /answer <enter answer> on ACM Community
+ - use the YT video as an mp3, and decode the mp3 online
