@@ -28,6 +28,6 @@ Using audacity to see the spectogram of a .wav file and find the key, i.e, the a
 ## Hints:
 
  - Hint 1 
-    - Use Audacity (an audio tool that has multiple functions)
+    - Use Audacity (an audio tool that has multiple functions) (cost=TBD)
  - Hint 2 
-    - Use the spectogram feature to find something at the end of the audio
+    - Use the spectogram feature to find something at the end of the audio (cost=TBD)
