@@ -1,3 +1,5 @@
+# https://discord.com/api/oauth2/authorize?client_id=1017668108686729237&permissions=0&scope=bot%20applications.commands
+
 import dotenv
 from dotenv import load_dotenv
 import os
