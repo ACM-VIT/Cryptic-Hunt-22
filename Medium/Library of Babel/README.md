@@ -11,7 +11,7 @@
 ## Specifications
 
 * **Entry point:** Riddle with an image
-* **Reward:** TBD (Usually a clue to another question)
+* **Reward:** Answer to riddle is **metadata**
 
 ## Description
 
@@ -27,7 +27,7 @@ Concept: You cant think of anything that dosent already exist in the library of 
 3. The riddle will contain the location (hex) which can be put in the library,which will result in the word "metadata".
 4. The image has hidden metadata, which will contain the location(hex).
 5. Use the location and decode again, the resulting text will be the answer to the riddle.
-6. **CrypticHuntTwentyTwo** is the final answer.
+6. **cryptichunttwentytwo** is the final answer.
 
 ## Hints:
 
