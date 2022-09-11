@@ -4,7 +4,7 @@
 * **Mode:** Online, transitions to offline(?)
 * **Authors:**
   * Manav Muthanna
-  * 
+
 * **Points:** TBD
 
 ## Specifications
@@ -25,5 +25,5 @@ This question revolves around interaction with a discord bot, which leads to a y
 
 ## Hints:
 
- - /answer <enter answer> on ACM Community
+ - /answer (enter answer) on ACM Community
  - use the YT video as an mp3, and decode the mp3 online
