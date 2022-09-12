@@ -1,20 +1,27 @@
-Hex-Caesar-IronMan
+# Hex-Caesar-IronMan
 
-●	Category: Easy
-●	Mode: Online, transitions to Offline
-●	Authors:
-  ○	Vidit
-  ○	Hari
-  ○	Manav
-  ○	Sarthak
-●	Points: TBD
+---
 
-Specifications
-●	Entry point: The user will be given a hex code “45 4E 4B 4A 20 49 57 4A 20 45 4F 20 53 57 50 59 44 45 4A 43 20 49 41”
-●	Requirement: QR Code Scanner
-●	Reward: TBD (Usually a clue to another question)
+-	Category: Easy
+-	Mode: Online, transitions to Offline
+-	Authors:
+ - Vidit
+ - Hari
+ - Manav
+ - Sarthak
+-	Points: TBD
 
-Description
+---
+
+## Specifications
+
+-	Entry point: The user will be given a hex code “45 4E 4B 4A 20 49 57 4A 20 45 4F 20 53 57 50 59 44 45 4A 43 20 49 41”
+-	Requirement: QR Code Scanner
+-	Reward: TBD (Usually a clue to another question)
+
+---
+
+## Description
 
 This question will have multiple sub-questions. 
 
@@ -56,14 +63,14 @@ IRON MAN IS WATCHING ME
 10)
 The user will have to scan the QR Code in front of the Iron Man painted on the graffiti wall near CS Hall.
 
-Solution
+## Solution
 1.	Convert the Hex Code to Text.
 2.	The Text Code will be Caeser Cipher Encrypted, the key for which will be obtained by finding the answer to the George Orwell question.
 3.	Decrypt the text, which will give the output: “IRON MAN IS WATCHING ME”
 4.	The user will have to scan the QR code in front of the Iron Man painted on the graffiti wall near CS Hall.
 
-Hints:
-●	Hint 1 (Cost = TBD)
-●	Hint 2 (Cost = TBD)
+## Hints:
+- Hint 1 (Cost = TBD)
+- Hint 2 (Cost = TBD)
 
 
