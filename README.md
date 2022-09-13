@@ -33,9 +33,14 @@ The overview starts here. Random text about the project, motive, how, what, why 
 
 Lets get started!
 ```console
-git remote add
+git remote add source https://github.com/<your-github-username>/Cryptic-Hunt-22
 git fetch
 git merge
+git add <files to add, . for adding all files>
+git status
+git commit -m \'<your message here>\'
+git status
+git push source
 ```
 
 ---
