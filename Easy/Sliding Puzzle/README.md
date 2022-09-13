@@ -1,4 +1,4 @@
-# Decode(3)
+# Sliding Image Puzzle
 
 * **Category:** Easy
 * **Mode:** Online
