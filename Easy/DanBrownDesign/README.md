@@ -9,7 +9,7 @@
 
 ## Specifications
 
-* **Entry point:** A riddle with the answer "Dan Brown's Angels and Demons": There is a famous quote, mostly said in the context of conflict, "One man's ______ is another man's ______." There is a book, by a best-selling author, with these two words forming the crux of its title. It has even been adapted to a movie starring a very famous Academy Award winning actor, who was one of the first in Hollywood to publicly acknowledge that they contracted COVID-19**"
+* **Entry point:** A riddle with the answer "Dan Brown's Angels and Demons": There is a famous quote, mostly said in the context of conflict, "One man's ______ is another man's ______." There is a book, by a best-selling author, with these two words forming the crux of its title. It has even been adapted to a movie - set in a very famous spot of worship and tourism - starring a very famous Academy Award winning actor, who was one of the first in Hollywood* to publicly acknowledge that they contracted COVID-19**"
 * **Reward:** Decoding the answer will be the answer to the next clue
 
 ## Description
@@ -38,4 +38,5 @@ This question is a submission type, subjective question.
  - This kind of image follows a strange symmetry
 
 ## Notes:
+*use Western for a better difficulty
 ** COVID-19 fact - he acknowledged that he and his wife Rita Wilson had covid around mid-march, 2020
