@@ -1,0 +1,3 @@
+Ciphered Text image is given in another file in 'dist'
+
+Answer in plaintext: COSMOS
