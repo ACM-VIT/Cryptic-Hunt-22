@@ -1,0 +1,14 @@
+{
+    "name": "Street Shapes",
+    "description": "This question involves tracing the streets in maps and selecting one of the options given",
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Question 1",
+        "description": "You start with a white screen, with 4 random shapes and 3 hints. Only one of them is the correct answer - YOU ONLY GET ONE CHANCE TO CLICK ON THE CORRECT SHAPE SO REALLY ANALYSE THE HINTS FIRST",
+        "answer": "One of the options given",
+        "pointsAwarded": 15
+      }
+    ],
+    "isSequence": false
+  }
