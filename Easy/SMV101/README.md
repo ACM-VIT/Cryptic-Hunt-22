@@ -2,10 +2,10 @@ SMV-101
 
 ●	Category: Easy
 ●	Mode: Hybrid
-●	Authors:
+Authors:
 	○	Vidit
 	○	Hari
-●	Points: TBD
+	Points: TBD
 
 Specifications
 ●	Entry point: The user will be given an image of the game Pocket Tanks with "/5" written on it, with a link to an audio file.
