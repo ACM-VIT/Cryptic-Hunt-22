@@ -1,0 +1,21 @@
+{
+    "name": "Backmasking",
+    "description": "An audio cipher ",
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Question 1",
+        "description": "An audio file is given that has reversed parts embedded on reversing only the reversed parts makes sense",
+        "answer": "<Location>",
+        "pointsAwarded": 15
+      },
+      {
+        "seq": 2,
+        "title": "Question 2",
+        "description": "Scanning of a QR code",
+        "answer": "Scanning of the QR code at <location>",
+        "pointsAwarded": 15
+      }
+    ],
+    "isSequence": true
+  }
