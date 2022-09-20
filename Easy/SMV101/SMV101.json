@@ -1,0 +1,14 @@
+{
+    "name": "SMV 101",
+    "description": "The user will be given an image of the game Pocket Tanks, with "/5" written somewhere in the image. The user will also be given a link to an audio file.",
+    "questions": [
+      {
+        "seq": 1,
+        "title": "SMV 101",
+        "description": "The user will be given an image of the game Pocket Tanks, with "/5" written somewhere in the image. The user will also be given a link to an audio file.",
+        "answer": "Scanning the QR Code at <location>",
+        "pointsAwarded": 15
+      }
+    ],
+    "isSequence": false
+  }
