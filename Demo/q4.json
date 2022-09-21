@@ -1,0 +1,23 @@
+{
+    "name": "Sum",
+    "description": "Add all numbers",
+    "isSequence": false,
+    "phase": 0, 
+    "question": [
+      {
+        "seq": 1,
+        "title": "Addition",
+        "description": "Add the given numbers",
+        "answer": "Helvetica",
+        "pointsAwarded": 5,
+        "costOfHint": 2,
+        "hint": "Use calculator to add" ,
+        "images": [
+          {
+            "url":"https://i.stack.imgur.com/U7VRX.jpg",
+            "description": "Add the given numbers"
+          }
+        ]
+      }
+    ]
+  }
