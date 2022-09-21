@@ -1,7 +1,7 @@
 {
     "name": "Find the text",
     "description": "This is just a standalone question with no dependent questions or subparts",
-    "isSequence": false,
+    "isSequence": true,
     "phase": 1,
     "questions": [
       {
