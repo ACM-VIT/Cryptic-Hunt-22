@@ -1,0 +1,38 @@
+{
+    "name": "Inspect",
+    "description": "Find the keyword",
+    "isSequence": true,
+    "phase": 0, 
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Inspect 1",
+        "description": "https://theuselessweb.com/",
+        "answer": "Helvetica",
+        "pointsAwarded": 5,
+        "costOfHint": 2,
+        "hint": "Look for the font style of the webpage" ,
+        "images": [
+          {
+            "url":null,
+            "description": null
+          }
+        ]
+      },
+      {
+        "seq": 2,
+        "title": "Caesar Cipher",
+        "description": "Apply Caser Cipher on obtained key",
+        "answer": "Ifmwfujdb",
+        "pointsAwarded": 5,
+        "costOfHint": 2,
+        "hint": "try shifting letters",
+        "images": [
+          {
+            "url":null ,
+            "description": null
+          }
+        ]
+      }
+    ]
+  }

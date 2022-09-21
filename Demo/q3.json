@@ -1,0 +1,38 @@
+{
+    "name": "Find the text",
+    "description": "This is just a standalone question with no dependent questions or subparts",
+    "isSequence": true,
+    "phase": 1,
+    "questions": [
+      {
+        "seq": 1,
+        "title": "hello",
+        "description": "word in image",
+        "answer": "HELLO",
+        "pointsAwarded": 10,
+        "costOfHint": 2,
+        "hint": "word in image",
+        "images": [
+          {
+            "url": "https://drive.google.com/file/d/1vZmLJUg42NUNgspYYmjbRSfuCT6f_dbn/view?usp=sharing",
+            "description": "handwritten hello"
+          }
+        ]
+      },
+      {
+        "seq": 2,
+        "title": "world",
+        "description": "word in image",
+        "answer": "WORLD",
+        "pointsAwarded": 10,
+        "costOfHint": 2,
+        "hint": "word in image",
+        "images": [
+          {
+            "url": "https://drive.google.com/file/d/1lw2tMrVWkl7g2IZPOqLmatw-TpAaVvnS/view?usp=sharing",
+            "description": "handwritten world"
+          }
+        ]
+      }
+    ]
+  }

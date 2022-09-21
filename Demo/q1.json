@@ -1,0 +1,23 @@
+{
+    "name": "Just Addition",
+    "description": "add numbers",
+    "isSequence": false,
+    "phase": 0, 
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Addition All",
+        "description": "Add 1 to 100",
+        "answer": "5050",
+        "pointsAwarded": 100,
+        "costOfHint": 55,
+        "hint": "check addition of n numbers on Wikipedia" ,
+        "images": [
+          {
+            "url": null,
+            "description": null
+          }
+        ]
+      }
+    ]
+  }
