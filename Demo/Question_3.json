@@ -13,10 +13,7 @@
         "costOfHint": 2,
         "hint": "Use Homophonic Substitution Cipher" ,
         "images": [
-          {
-            "url":"https://i.imgur.com/hKvIA1X.png",
-            "description": null
-          }
+          "https://i.imgur.com/hKvIA1X.png"
         ]
       },
       {
@@ -28,10 +25,7 @@
         "costOfHint": 2,
         "hint": "Use the decrypted text as the password",
         "images": [
-          {
-            "url":"https://drive.google.com/file/d/1AeLziw59yQP1b7vXzWLbhbVyj_oGkN52/view?usp=sharing" ,
-            "description": null
-          }
+          "url":"https://drive.google.com/file/d/1AeLziw59yQP1b7vXzWLbhbVyj_oGkN52/view?usp=sharing" 
         ]
       }
     ]
