@@ -12,11 +12,8 @@
         "pointsAwarded": 100,
         "costOfHint": 55,
         "hint": "Cipher used in Assassin's Creed games" ,
-        "images": [
-          {
-            "url": "https://i.imgur.com/jIBVIt6.jpg",
-            "description": null
-          }
+        "images": [ 
+          "https://i.imgur.com/jIBVIt6.jpg"       
         ]
       }
     ]
