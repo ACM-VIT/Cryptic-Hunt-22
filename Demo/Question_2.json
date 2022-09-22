@@ -13,14 +13,7 @@
         "costOfHint": 55,
         "hint": "ROOM 313" ,
         "images": [
-          {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/220px-Mahatma-Gandhi%2C_studio%2C_1931.jpg",
-          } 
-        ]
-        "links": [
-            {
-                "url": "https://www.youtube.com/watch?v=0ITI1CnFv2A"
-            }
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/220px-Mahatma-Gandhi%2C_studio%2C_1931.jpg"
         ]
       }
     ]
