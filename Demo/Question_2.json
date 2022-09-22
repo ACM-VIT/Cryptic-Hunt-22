@@ -8,7 +8,7 @@
         "seq": 1,
         "title": "Link",
         "description": "The user will be given an image of Mahatma Gandhi and this link: https://www.youtube.com/watch?v=0ITI1CnFv2A , they have to go to a location and scan a QR Code pasted there.",
-        "answer": "The user will have to scan the QR Code pasted inside room 313 in MGR.",
+        "answer": "MGR Room 313",
         "pointsAwarded": 100,
         "costOfHint": 55,
         "hint": "ROOM 313" ,
