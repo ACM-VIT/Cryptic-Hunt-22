@@ -1,0 +1,48 @@
+{
+    "name": "Hex_Caesar_IronMan",
+    "description": "Iron Man Question",
+    "isSequence": true,
+    "phase": 1,
+    "questions": [
+      {
+        "seq": 1,
+        "title": "The user is given a Hex Code",
+        "description": "Lara Croft wants to come to VIT lol, but to enter, she has to solve this: 45 4E 4B 4A 20 49 57 4A 20 45 4F 20 53 57 50 59 44 45 4A 43 20 49 41 (Note : Remember the answer for further parts of this question)",
+        "answer": "ENKJ IWJ EO SWPYDEJC IA",
+        "pointsAwarded": 25,
+        "costOfHint": 10,
+        "hint": "Convert Hex Code to text",
+        "image": []
+      },
+      {
+        "seq": 2,
+        "title": "The user is asked a question.",
+        "description": "Lara Croft has successfully entered VIT, but to get past the Red Tag Anna, she has to answer his question. And thus, the Red Tag Anna asks: What's something in common between George Orwell and VIT? (Note : Remember the answer for further parts of this question)",
+        "answer": "1984",
+        "pointsAwarded": 25,
+        "costOfHint": 10,
+        "hint": "George Orwell's most famous book",
+        "image": []
+      },
+      {
+        "seq": 3,
+        "title": "Caesar Cipher",
+        "description": "The Red Tag Anna has left Lara Craft alone lol, but to go further, she has to add the digits of the above number until she gets a single digit, and use it.",
+        "answer": "IRON MAN IS WATCHING ME",
+        "pointsAwarded": 25,
+        "costOfHint": 10,
+        "hint": "Use the number as the key for Caesar Cipher",
+        "image": [] 
+      },
+      {
+        "seq": 4,
+        "title": "QR Code",
+        "description": "IRON MAN IS WATCHING ME (Lara Croft has to find the hidden QR Code)",
+        "answer": "vN70ZRx1",
+        "pointsAwarded": 25,
+        "costOfHint": 10,
+        "hint": "There's an Iron Man painted somewhere in VIT",
+        "image": []
+      }
+    ]
+  }
