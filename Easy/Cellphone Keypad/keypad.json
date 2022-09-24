@@ -1,21 +1,17 @@
 {
     "name": "Cellphone Keypad",
-    "description": "Convert the keypad cipher to text",
+    "description": "description",
+    "isSequence": false,
+    "phase": 0,
     "questions": [
       {
         "seq": 1,
-        "title": "Question 1",
+        "title": "Cellphone",
         "description": "A HTML page is given with an image of a keypad phone, on opening the console one can see the the ciphered numbers, converting it to text will actually give you the question",
-        "answer": "<Riddle>",
-        "pointsAwarded": 15
-      },
-      {
-        "seq": 1,
-        "title": "Question 2",
-        "description": "The converted text gives out a riddle",
-        "answer": "SJT / Silver Jubilee Tower",
-        "pointsAwarded": 15
+        "answer": "jarvis",
+        "pointsAwarded": 10,
+        "costOfHint": 5,
+        "hint": "Press F12"
       }
-    ],
-    "isSequence": true
+    ]
   }
