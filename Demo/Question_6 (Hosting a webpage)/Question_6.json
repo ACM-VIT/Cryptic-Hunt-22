@@ -1,0 +1,17 @@
+{
+  "name": "Testing webpage",
+  "description": "Demo question for testing html website",
+  "isSequence": false,
+  "phase": 0,
+  "questions": [
+    {
+      "seq": 1,
+      "title": "Html question",
+      "description": "Html website has a image saying check source, in console you get a question, answer is jarvis",
+      "answer": "jarvis",
+      "pointsAwarded": 10,
+      "costOfHint": 5,
+      "hint": "Press F12"
+    }
+  ]
+}
