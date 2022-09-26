@@ -1,0 +1,28 @@
+{
+    "name": "solfa cipher",
+    "description": "solfa cipher question",
+    "isSequence": true,
+    "phase": 0,
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Riddle1",
+        "description": "The player is provided with an image of a WW2 rotatory decoder and a background image of a hill. The player will have to decrypt it to get the first hint.",
+        "answer": "TBD",
+        "pointsAwarded": "TBD",
+        "costOfHint": "TBD",
+        "hint": "/answer on ACM community",
+        "images": "TBD"
+      },
+      {
+        "seq": 2,
+        "title": "Riddle2",
+        "description": "User will get a zipped audio file that must be decrypted.",
+        "answer": "TBD",
+        "pointsAwarded": "TBD",
+        "costOfHint": "TBD",
+        "hint": "/answer on ACM community",
+        "images": []
+      }
+    ]
+  }
