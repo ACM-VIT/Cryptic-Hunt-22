@@ -1,7 +1,7 @@
 Grammar Nazi
 
 ●	Category: Easy
-●	Mode: Hybrid
+●	Mode: Offline
 Authors:
 	○	Priyanshi
 	○	Shambhavi
