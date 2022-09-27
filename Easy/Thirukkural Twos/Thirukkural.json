@@ -1,0 +1,20 @@
+  {
+    "name": "Booty and the Book",
+    "description": "One of the biggest books you'll ever see, is there in VIT. Hidden in there, the answer to this question lays bare. \n It's size hides a secret. Oh! You haven't taken a peek yet? Find the page, the line. Translate it, and the points are thine",
+    "isSequence": true,
+    "phase": 0,
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Big Book Booty",
+        "description": "One of the biggest books you'll ever see, is there in VIT. Hidden in there, the answer to this question lays bare. \n It's size hides a secret. Oh! You haven't taken a peek yet? Find the page, the line. Translate it, and the points are thine.",
+        "answer": "Hard of access, nought searching out, with partial hand. \n The king who rules, shall sink and perish from the land.",
+        "pointsAwarded": 1,
+        "costOfHint": 25,
+        "hint": 25,
+        "images": [
+          
+        ]
+      }
+    ]
+  }
