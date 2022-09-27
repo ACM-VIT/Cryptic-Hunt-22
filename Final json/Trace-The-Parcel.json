@@ -1,7 +1,7 @@
 {
     "name": "Trace-The-Parcel",
     "description": "The villian is on the run! Move forward to catch them.",
-    "isSequence": false,
+    "isSequence": true,
     "phase": 0,
     "questions": [
         {
