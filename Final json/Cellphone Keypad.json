@@ -1,14 +1,14 @@
 {
     "name": "Cellphone Keypad",
-    "description": "description",
+    "description": "A HTML page is given with an image of a keypad phone, on opening the console one can see the the ciphered numbers, converting it to text will actually give you the question",
     "isSequence": false,
     "phase": 0,
     "questions": [
       {
         "seq": 1,
-        "title": "Cellphone",
-        "description": "A HTML page is given with an image of a keypad phone, on opening the console one can see the the ciphered numbers, converting it to text will actually give you the question",
-        "answer": "jarvis",
+        "title": "Nokia 3310?",
+        "description": "All the information needed to solve the question is given here : https://tinyurl.com/5a7zbj3w",
+        "answer": "SJT",
         "pointsAwarded": 10,
         "costOfHint": 5,
         "hint": "Press F12",
