@@ -1,0 +1,18 @@
+{
+    "name": "Sliding Puzzle",
+    "description": "A Sliding puzzle that then needs to decrypt the cipher",
+    "isSequence": false,
+    "phase": 0,
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Sliding Puzzle",
+        "description": "Hint: Use a word editor or PPT to solve the picture puzzle. https://tinyurl.com/jumbled-img ",
+        "answer": "COSMOS",
+        "pointsAwarded": 1,
+        "costOfHint": 15,
+        "hint": "The cipher is related to a movie both the above actors are in.",
+        "images": []
+      }
+    ]
+}

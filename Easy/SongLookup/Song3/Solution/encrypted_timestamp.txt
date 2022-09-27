@@ -1,0 +1,4 @@
+plaintext: timestamp=1:40
+encoding: base64
+
+encoded string: dGltZXN0YW1wPTE6NDA=
