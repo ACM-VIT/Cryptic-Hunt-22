@@ -1,6 +1,6 @@
 {
   "name": "TuringChess",
-  "description": "The user is provided with an image of a chess board, and a link to an audio file. The user will have to read about Alan Turing and find the connection between Alan Turing and Chess.",
+  "description": "The user is provided with an image of a chess board, and a link to an audio file. ",
   "isSequence": false,
   "phase": 1,
   "questions": [
