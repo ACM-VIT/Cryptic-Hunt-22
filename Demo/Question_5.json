@@ -1,0 +1,20 @@
+{
+    "name": "Question_3",
+    "description": "Participants are provided with a base64 encoded riddle and a link for a pdf. link for pdf: https://drive.google.com/file/d/13PcuOTcCeG33HxbrRdCOllXrgt5RC0Yc/view?usp=sharing. The pdf contains two random yt links and the hint to the question in white text. Answer is 'candle', input in the form of text.",
+    "isSequence": false,
+    "phase": 0,
+    "questions": [
+        {
+            "seq": 1,
+            "title": "Solve the riddle",
+            "description": "Solve the following encoded riddle = 'WW91IG1lYXN1cmUgbXkgbGlmZSBpbiBob3VycyBhbmQgSSBzZXJ2ZSB5b3UgYnkgZXhwaXJpbmcuIEnigJltIHF1aWNrIHdoZW4gSeKAmW0gdGhpbiBhbmQgc2xvdyB3aGVuIEnigJltIGZhdC4gVGhlIHdpbmQgaXMgbXkgZW5lbXkuIA=='. Yu will find your answer in the given pdf - 'https://drive.google.com/file/d/13PcuOTcCeG33HxbrRdCOllXrgt5RC0Yc/view?usp=sharing'",
+            "answer": "candle",
+            "pointsAwarded": 1,
+            "costOfHint": 10,
+            "hint": "base64",
+            "images": [
+              ""
+            ]
+        }
+    ]
+}

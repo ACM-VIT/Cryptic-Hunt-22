@@ -1,0 +1,32 @@
+{
+    "name": "Locked Zip",
+    "description": "Find the answer",
+    "isSequence": true,
+    "phase": 0, 
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Decode the cipher",
+        "description": "",
+        "answer": "thehillshaveeyes",
+        "pointsAwarded": 5,
+        "costOfHint": 2,
+        "hint": "Use Homophonic Substitution Cipher" ,
+        "images": [
+          "https://i.imgur.com/hKvIA1X.png"
+        ]
+      },
+      {
+        "seq": 2,
+        "title": "Unlock the Zip",
+        "description": "The Zip file must be unlocked now",
+        "answer": "The Weeknd",
+        "pointsAwarded": 5,
+        "costOfHint": 2,
+        "hint": "Use the decrypted text as the password",
+        "images": [
+          "https://drive.google.com/file/d/1AeLziw59yQP1b7vXzWLbhbVyj_oGkN52/view?usp=sharing" 
+        ]
+      }
+    ]
+  }

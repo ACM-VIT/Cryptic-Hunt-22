@@ -1,0 +1,32 @@
+{
+  "name": "Question 1",
+  "description": "The evil organization zarthrusa has set a course ridden with traps for you, intepid explorer. Find the best ways to beat the obstacles in front of you to save the little prince",
+  "isSequence": true,
+  "phase": 0,
+  "questions": [
+    {
+      "seq": 1,
+      "title": "multiverse rescue",
+      "description": "The image below is an ancient riddle that you find. It gurantees you eternal power. Solve it.",
+      "answer": "Use the left lever to count the visits and have the right lever have no meaning. Only I get to reset and if you have pushed it once then use the right lever instead.",
+      "pointsAwarded": 100,
+      "costOfHint": 50,
+      "hint": "This is a video on Ted-ED. You can watch the video and solve this questions",
+      "images": [
+        "https://imgur.com/a/mtD9vD3"
+      ]
+    },
+    {
+      "seq": 2,
+      "title": "Defeat the evil wizard",
+      "description": "You are sent into a magical dimension and you hear the following voice give you instructions. Follow them and defeat the wizard. Here is the heavenly voice: https://paste.c-net.org/ScudderMemory",
+      "answer": "It is there in the audio itself.",
+      "pointsAwarded": 150,
+      "costOfHint": null,
+      "hint": null,
+      "images": [
+        ""
+      ]
+    }
+  ]
+}

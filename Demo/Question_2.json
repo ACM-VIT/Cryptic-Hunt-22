@@ -1,0 +1,20 @@
+{
+    "name": "Link, 313, QR Code",
+    "description": "The user will be shown an image of Mahatma Gandhi and a link to a video, they have to go to a location and scan a QR Code pasted there.",
+    "isSequence": false,
+    "phase": 0, 
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Link",
+        "description": "The user will be given an image of Mahatma Gandhi and this link: https://www.youtube.com/watch?v=0ITI1CnFv2A , they have to go to a location and scan a QR Code pasted there.",
+        "answer": "MGR Room 313",
+        "pointsAwarded": 100,
+        "costOfHint": 55,
+        "hint": "ROOM 313" ,
+        "images": [
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/220px-Mahatma-Gandhi%2C_studio%2C_1931.jpg"
+        ]
+      }
+    ]
+  }

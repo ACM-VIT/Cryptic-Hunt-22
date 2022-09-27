@@ -1,0 +1,32 @@
+{
+  "name": "QG Name",
+  "description": "description",
+  "isSequence": true,
+  "phase": 0,
+  "questions": [
+    {
+      "seq": 1,
+      "title": "Q Title",
+      "description": "Q Description",
+      "answer": "ans1",
+      "pointsAwarded": 1,
+      "costOfHint": null,
+      "hint": null,
+      "images": [
+        "https://www.gstatic.com/devrel-devsite/prod/vffb6f747a4a347f610c19877672b152494f6401418724d2bc2f21104794d57bc/firebase/images/lockup.svg"
+      ]
+    },
+    {
+      "seq": 2,
+      "title": "Q Title",
+      "description": "Q Description",
+      "answer": "ans1",
+      "pointsAwarded": 1,
+      "costOfHint": 15,
+      "hint": "hint 1",
+      "images": [
+        "https://www.gstatic.com/devrel-devsite/prod/vffb6f747a4a347f610c19877672b152494f6401418724d2bc2f21104794d57bc/firebase/images/lockup.svg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Pixel Values",
+    "description": "Click here to solve a millenium problem.",
+    "isSequence": false,
+    "phase": 0,
+    "questions": [
+        {
+            "seq": 1,
+            "title": "Solve the riddle",
+            "description": "We were finally able to procure a very rare photo of schrodinger's cat. Sadly, it's been tampered with. A person named Chase, who is 64 years old, released this photo, alongwith two encoded coordinates, x = MjM0, y = MTYy. He also released a statement saying, 'Always think positive'. The last part of schrodinger's superior equation is hidden in the image, which will be able to infinitely generate new colours. A 6 digit code to be obtained from the photo using these coordinates is the solution to this mystery.",
+            "answer": "886144",
+            "pointsAwarded": 100,
+            "costOfHint": null,
+            "hint": null,
+            "images": [
+                "https://d26gu8tctrkwpq.cloudfront.net/PixelValues.jpg"
+            ]
+        }
+    ]
+}
