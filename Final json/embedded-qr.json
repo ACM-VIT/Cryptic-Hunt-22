@@ -10,8 +10,8 @@
         "description": "Check this video out, https://www.youtube.com/watch?v=2NbxOAcrvs8 , maybe play it in a language you'd understand?",
         "answer": "engineer",
         "pointsAwarded": 1,
-        "costOfHint": null,
-        "hint": null,
+        "costOfHint": 15,
+        "hint": "Check the transcript/subtitles",
         "images": ["https://d26gu8tctrkwpq.cloudfront.net/embedded.png"]
       }
     ]
