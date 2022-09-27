@@ -1,0 +1,19 @@
+{
+    "name": "VIT Quality",
+    "description": "Contact the musicians https://youtu.be/gfK4rzuEj-M",
+    "isSequence": false,
+    "phase": 0,
+    "questions": [
+      {
+        "seq": 1,
+        "title": "VIT Quality",
+        "description": "Contact the musicians",
+        "answer": "24882433",
+        "pointsAwarded": 1,
+        "costOfHint": null,
+        "hint": "Search on VIT website",
+        "images": []
+      }
+    ]
+  }
+  
