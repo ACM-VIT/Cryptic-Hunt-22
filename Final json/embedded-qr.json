@@ -1,0 +1,19 @@
+{
+    "name": "Embedded QR",
+    "description": "A video link is given (bit-plane ans in transcript), QR code inside the img on scanning gives answer",
+    "isSequence": false,
+    "phase": 0,
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Embedded QR",
+        "description": "Check this video out, https://www.youtube.com/watch?v=2NbxOAcrvs8 , maybe play it in a language you'd understand?",
+        "answer": "engineer",
+        "pointsAwarded": 1,
+        "costOfHint": null,
+        "hint": null,
+        "images": ["https://d26gu8tctrkwpq.cloudfront.net/embedded.png"]
+      }
+    ]
+  }
+  

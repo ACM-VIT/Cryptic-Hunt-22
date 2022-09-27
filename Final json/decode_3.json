@@ -33,7 +33,7 @@
         "costOfHint": 15,
         "hint": "This is a language/cipher the navy uses",
         "images": [
-          "flag_cipher.jpg"
+          "https://d26gu8tctrkwpq.cloudfront.net/flag_cipher.jpg"
         ]
       }
     ]
