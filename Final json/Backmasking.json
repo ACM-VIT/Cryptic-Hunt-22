@@ -1,0 +1,17 @@
+{
+    "name": "Backmasking",
+    "description": "An audio cipher",
+    "isSequence": false,
+    "phase": 1,
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Question 1",
+        "description": "PAUL IS DEAD: https://drive.google.com/file/d/1EFsdDtfSbWyeSxOGLLyMGSIN-UOgQ5MG/view?usp=sharing (This question involves scanning a QR Code)",
+        "answer": "kKPkNFmB",
+        "pointsAwarded": 100,
+        "costofHint": 40,
+        "hint": "BACKMASKING"
+      }
+    ]
+  }
