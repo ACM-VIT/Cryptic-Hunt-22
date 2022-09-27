@@ -12,7 +12,7 @@
         "pointsAwarded": 25,
         "costOfHint": 10,
         "hint": "Convert Hex Code to text",
-        "image": []
+        "images": []
       },
       {
         "seq": 2,
@@ -22,7 +22,7 @@
         "pointsAwarded": 25,
         "costOfHint": 10,
         "hint": "George Orwell's most famous book",
-        "image": []
+        "images": []
       },
       {
         "seq": 3,
@@ -32,7 +32,7 @@
         "pointsAwarded": 25,
         "costOfHint": 10,
         "hint": "Use the number as the key for Caesar Cipher",
-        "image": [] 
+        "images": [] 
       },
       {
         "seq": 4,
@@ -42,7 +42,7 @@
         "pointsAwarded": 25,
         "costOfHint": 10,
         "hint": "There's an Iron Man painted somewhere in VIT",
-        "image": []
+        "images": []
       }
     ]
   }
