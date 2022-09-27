@@ -1,0 +1,55 @@
+{
+    "name": "Pixel Values",
+    "description": "The villian is on the run! Move forward to catch them.",
+    "isSequence": false,
+    "phase": 0,
+    "questions": [
+        {
+            "seq": 1,
+            "title": "Trace the place",
+            "description": "Good Evening, Ms. Croft. The villain is on the run, but left this crucial piece of parchement behind. We need to pursue them asap. Trace the origin of this bill to track them down.",
+            "answer": "balaji",
+            "pointsAwarded": 100,
+            "costOfHint": null,
+            "hint": null,
+            "images": [
+                "https://d26gu8tctrkwpq.cloudfront.net/Trace-The-Parcel-1.jpg"
+            ]
+        }
+
+        {
+            "seq": 2,
+            "title": "Almost!",
+            "description": "You're on the right path! The villain is just a few steps away. Trace them to their evil lair. A family friend is here to help you. Scan the qr code to get help.",
+            "answer": "mahatma gandhi block",
+            "pointsAwarded": 100,
+            "costOfHint": null,
+            "hint": null,
+            "images": [
+                "https://d26gu8tctrkwpq.cloudfront.net/Trace-The-Parcel-2.jpg"
+            ]
+        }
+
+        {
+            "seq": 3,
+            "title": "Finally!.",
+            "description": "Scan this qr code to find them",
+            "answer": "rickrolled",
+            "pointsAwarded": 100,
+            "costOfHint": null,
+            "hint": null,
+            "images": []
+        }
+
+        {
+            "seq": 4,
+            "title": "Lol congratulations!",
+            "description": "Input the answer",
+            "answer": "weloveacm",
+            "pointsAwarded": 100,
+            "costOfHint": null,
+            "hint": null,
+            "images": []
+        }
+    ]
+}
