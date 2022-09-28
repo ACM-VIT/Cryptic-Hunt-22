@@ -1,0 +1,38 @@
+{
+    "name": "Get Groooovy",
+    "description": "Do you know that feeling of listening to a song at a public place like a mall or a bowling alley and thinking, \"Man, I've heard that one before!\"? Because same.",
+    "isSequence": true,
+    "phase": 0,
+    "questions": [
+        {
+            "seq": 1,
+            "title": "Welcome to the party!",
+            "description": "I know I've heard this somewhere I know I've heard this somewhere I know I've heard....",
+            "answer": "misconception",
+            "pointsAwarded": 75,
+            "costOfHint": 35,
+            "hint": "",
+            "images": []
+        },
+        {
+            "seq": 2,
+            "title": "Let's get movin'",
+            "description": "Take me to church",
+            "answer": "me",
+            "pointsAwarded": 75,
+            "costOfHint": 35,
+            "hint": "Which bible verse does the scripture belong to?",
+            "images": []
+        },
+        {
+            "seq": 3,
+            "title": "Hello? Can you hear me?",
+            "description": "I cant understand you...",
+            "answer": "smile",
+            "pointsAwarded": 100,
+            "costOfHint": 50,
+            "hint": "Use twofish cipher with the given binary file",
+            "images": []
+        }
+    ]
+}
