@@ -9,8 +9,8 @@
         "title": "VIT Quality",
         "description": "Contact the musicians https://www.youtube.com/watch?v=gfK4rzuEj-M",
         "answer": "24882433",
-        "pointsAwarded": 1,
-        "costOfHint": null,
+        "pointsAwarded": 100,
+        "costOfHint": 50,
         "hint": "Search on VIT website",
         "images": []
       }

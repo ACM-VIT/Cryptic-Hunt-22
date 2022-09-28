@@ -9,9 +9,9 @@
         "title": "Big Book Booty",
         "description": "One of the biggest books you'll ever see, is there in VIT. Hidden in there, the answer to this question lays bare. \n It's size hides a secret. Oh! You haven't taken a peek yet? Find the page, the line. Translate it, and the points are thine.",
         "answer": "Hard of access, nought searching out, with partial hand. The king who rules, shall sink and perish from the land.",
-        "pointsAwarded": 1,
-        "costOfHint": 25,
-        "hint": 25,
+        "pointsAwarded": 100,
+        "costOfHint": 50,
+        "hint": null,
         "images": []
       }
     ]
