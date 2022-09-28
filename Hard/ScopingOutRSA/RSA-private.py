@@ -76,10 +76,12 @@ print("N: ", N)
 print("phi: ", phi)
 print("e: ", e)
 print("d: ", d)
+print()
 
-plaintext = "Check the image dimensions. The focus of the _____ is on a particular type of publication. Find it."
+plaintext = "Check the image dimensions. The focus of the scope is on a particular type of publication. There is a relationship between VIT and this publication. Find the title of the content referred to by this relationship."
 ciphertext = encrypt(plaintext, [e,N])
 message = decrypt(ciphertext, [d,N])
 
 print("Ciphertext:", ciphertext)
+print()
 print("Message: ", message)
