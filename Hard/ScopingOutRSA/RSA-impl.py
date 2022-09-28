@@ -45,7 +45,7 @@ def encrypt(plaintext: str, publicKey):
     ciphertext = ''
     for i in range(0, len(plaintext), 2):
         if len(plaintext[i:i+2]) < 2:
-            text = plaintext[i:i+2] + '0'*(2 - len(plaintext[i:i+2]))
+            text = plaintext[i:i+2] + ' '*(2 - len(plaintext[i:i+2]))
         else:
             text = plaintext[i:i+2]
         s_i = int(text.encode().hex(), 16)
@@ -77,7 +77,7 @@ print("phi: ", phi)
 print("e: ", e)
 print("d: ", d)
 
-plaintext = "check the image dimensions"
+plaintext = "Check the image dimensions. The focus of the _____ is on a particular type of publication. Find it."
 ciphertext = encrypt(plaintext, [e,N])
 message = decrypt(ciphertext, [d,N])
 
