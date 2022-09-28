@@ -10,9 +10,9 @@
         "description": "PAUL IS DEAD: https://drive.google.com/file/d/1EFsdDtfSbWyeSxOGLLyMGSIN-UOgQ5MG/view?usp=sharing (This question involves scanning a QR Code)",
         "answer": "kKPkNFmB",
         "pointsAwarded": 100,
-        "costofHint": 40,
-        "hint": "BACKMASKING"
-        "images": []
+        "costofHint": 50,
+        "hint": "BACKMASKING",
+        "images" : []
       }
     ]
   }

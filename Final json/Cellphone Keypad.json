@@ -9,8 +9,8 @@
         "title": "Nokia 3310?",
         "description": "All the information needed to solve the question is given here : https://tinyurl.com/5a7zbj3w",
         "answer": "SJT",
-        "pointsAwarded": 10,
-        "costOfHint": 5,
+        "pointsAwarded": 100,
+        "costOfHint": 50,
         "hint": "Press F12",
         "images": []
       }

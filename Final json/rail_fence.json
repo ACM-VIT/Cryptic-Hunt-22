@@ -9,7 +9,7 @@
         "title": "Rail-Fence Cipher",
         "description": "",
         "answer": "Claude Shannon",
-        "pointsAwarded": 1,
+        "pointsAwarded": 100,
         "costOfHint": null,
         "hint": null,
         "images": ["https://d26gu8tctrkwpq.cloudfront.net/rf_cipher.jpg"]
