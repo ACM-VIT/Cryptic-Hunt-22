@@ -1,17 +1,17 @@
 {
   "name": "TuringChess",
-  "description": "The user is provided with an image of a chess board, and a link to an audio file. The user will have to read about Alan Turing and find the connection between Alan Turing and Chess.",
+  "description": "The user is provided with an image of a chess board, and a link to an audio file. ",
   "isSequence": false,
   "phase": 1,
   "questions": [
     {
       "seq": 1,
-      "title": "Convert these tiles into two images",
-      "description": "Analyse this audio- https://www.youtube.com/watch?v=tyezUnJnYYQ ",
+      "title": "Question 1",
+      "description": "Analyse this audio- https://drive.google.com/file/d/1TDwS6qyarWZL0lACTNauOKf-Vghm82L0/view?usp=sharing ",
       "answer": "TUROCHAMP",
       "pointsAwarded": "100",
-      "costofHint": "10",
-      "hint": null,
+      "costofHint": "40",
+      "hint": "Alan Turing",
       "images": [
         "https://d26gu8tctrkwpq.cloudfront.net/chess_board.jpg"
       ]

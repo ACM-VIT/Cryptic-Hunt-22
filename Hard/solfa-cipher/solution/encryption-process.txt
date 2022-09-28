@@ -1,22 +1,27 @@
 HILL CIPHER
 
-plaintext = DOEADEER
-plaintext input as = DOEADEER / DOE A DEER 
-block length  n = 2
-candidate key = AXTV
-ciphertext = KNAYOLBR
-ciphertext displayed as = KN AY OL BR
+plaintext1 = GRAVITAS
+plaintext1 input as = GRAVITAS
+ciphertext1 = BALWZECE
+
+plaintext2 = HYBRID
+plaintext2 input as = HYBRID
+ciphertext2 = SZVHDM
+
+plaintext3 = HUNT
+plaintext3 input as = HUNT
+ciphertext3 = GBFX
+
+key matrix = 22 3 9 6
+cipher key matrix= VCIF
 
 
-SOLFA CIPHER + SHIFT CIPHER
+SOLFA CIPHER
 plaintext = 
-	1. MELODIOUS
-ciphertext - shift cipher
-	1. TLSVKPVBZ
+	1. expecttheunexpected
+ciphertext=to_decode.midi
 solfa key = 
 	solfa-cipher-key.jpg
-	{ clef: teble
-	  tonic: C  major
-	  rhythym: 1/4 }
-ciphertext - solfa cipher
-	2. solfa-cipher-ciphertext.midi
+	{ clef: treble
+	  tonic: G Major
+	  rhythym: 4/4 }
