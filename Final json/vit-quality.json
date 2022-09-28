@@ -1,13 +1,13 @@
 {
     "name": "VIT Quality",
-    "description": "Contact the musicians https://youtu.be/gfK4rzuEj-M",
+    "description": "Contact the musicians",
     "isSequence": false,
     "phase": 0,
     "questions": [
       {
         "seq": 1,
         "title": "VIT Quality",
-        "description": "Contact the musicians",
+        "description": "Contact the musicians https://www.youtube.com/watch?v=gfK4rzuEj-M",
         "answer": "24882433",
         "pointsAwarded": 1,
         "costOfHint": null,
