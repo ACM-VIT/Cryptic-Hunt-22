@@ -1,0 +1,68 @@
+{
+    "name": "ThreeWordsWhat",
+    "description": "Use WhatThreeWords",
+    "isSequence": true,
+    "phase": 1,
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Question 1",
+        "description": "Here's a map of VIT, with the path of an interpid explorer mapped out on it. However, their way of navigation is absurd and they've found an unconventional way to map their journey, in three words, its 'simple, stupefying and suuuuuuper long'. Follow in the footsteps of this explorer, aided by the pictures taken by them. This is the map: https://d26gu8tctrkwpq.cloudfront.net/Map.jpg",
+        "answer": "firebird.heave.stand",
+        "pointsAwarded": 20,
+        "costOfHint": 10,
+        "hint": "https://d26gu8tctrkwpq.cloudfront.net/Spot_1_hint.jpg",
+        "images": [
+          "https://d26gu8tctrkwpq.cloudfront.net/Spot_1.jpg"
+        ]
+      },
+      {
+        "seq": 2,
+        "title": "Question 2",
+        "description": "Spot 2",
+        "answer": "hatch.outbid.listen",
+        "pointsAwarded": 20,
+        "costOfHint": 10,
+        "hint": "https://d26gu8tctrkwpq.cloudfront.net/Spot_2_hint.jpg",
+        "images": [
+          "https://d26gu8tctrkwpq.cloudfront.net/Spot_2.jpg"
+        ]
+      },
+      {
+        "seq": 3,
+        "title": "Question 3",
+        "description": "Spot 3",
+        "answer": "unions.liability.permit",
+        "pointsAwarded": 20,
+        "costOfHint": 10,
+        "hint": "https://d26gu8tctrkwpq.cloudfront.net/Spot_3_hint.jpg",
+        "images": [
+          "https://d26gu8tctrkwpq.cloudfront.net/Spot_3.jpg"
+        ]
+      },
+      {
+      "seq": 4,
+        "title": "Question 4",
+        "description": "Spot 4",
+        "answer": "skill.assembles.guilty",
+        "pointsAwarded": 20,
+        "costOfHint": 10,
+        "hint": "https://d26gu8tctrkwpq.cloudfront.net/Spot_4_hint.jpg",
+        "images": [
+          "https://d26gu8tctrkwpq.cloudfront.net/Spot_4.jpg"
+        ]
+    },
+    {
+        "seq": 5,
+        "title": "Question 5",
+        "description": "Spot 5",
+        "answer": "lawns.magnitude.allow",
+        "pointsAwarded": 20,
+        "costOfHint": 10,
+        "hint": "https://d26gu8tctrkwpq.cloudfront.net/Spot_5_hint.jpg",
+        "images": [
+          "https://d26gu8tctrkwpq.cloudfront.net/Spot_5.jpg"
+        ]
+    }
+    ]
+  }
