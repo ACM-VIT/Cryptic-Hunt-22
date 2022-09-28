@@ -9,8 +9,8 @@
         "title": "Which computer sings the best?",
         "description": "Tell MarkBot (on ACM Community - https://discord.gg/GEN37Ktd ) the answer using slash commands.",
         "answer": "Silver Jubilee Tower",
-        "pointsAwarded": 1,
-        "costOfHint": 15,
+        "pointsAwarded": 100,
+        "costOfHint": 50,
         "hint": "/answer <answer> on ACM community",
         "images": []
       }
