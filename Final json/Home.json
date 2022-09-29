@@ -1,19 +1,18 @@
 {
     "name": "Home",
-    "description": "There is news of a black market operating out of here. The riddler is responsible for it. We have to stop it.",
+    "description": "Home question",
     "isSequence": true,
     "phase": 1,
     "questions": [
       {
         "seq": 1,
         "title": "Solve this ridldle or go bust",
-        "description": "Our double agent 'King Faraday' has left a quote for us which goes like 'Untouched by imagination or intellect, great actions become mere activity; it'. WE think he was trying to lead us somewhere. But we're not sure.",
+        "description": "There is news of a black market operating out of here. The riddler is responsible for it. Our double agent 'King Faraday' has left a quote for us which goes like 'Untouched by imagination or intellect, great actions become mere activity; it'. WE think he was trying to lead us somewhere. But we're not sure.",
         "answer": "",
         "pointsAwarded": 50,
         "costofHint": 25,
         "hint": "King Faraday is a fictional spy in a famous COMIC series."
-      }
-    ]
+      },
 
     {
         "seq": 2,
