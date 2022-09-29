@@ -2,7 +2,7 @@
     "name": "Rail-Fence Problem",
     "description": "Decrypting a rail-fence cipher",
     "isSequence": false,
-    "phase": 0,
+    "phase": 1,
     "questions": [
       {
         "seq": 1,
