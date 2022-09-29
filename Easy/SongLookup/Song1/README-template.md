@@ -24,4 +24,4 @@ Players are given 3 different clues to 3 different songs (more specifically, 3 p
 
 ## Hints:
 
- - Hint for song 1 --> Shazam (Cost = TBD) 
+ - Hint for song 1 --> Shazam (Cost = TBD)
