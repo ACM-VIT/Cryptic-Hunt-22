@@ -2,7 +2,7 @@
     "name": "Backmasking",
     "description": "An audio cipher",
     "isSequence": false,
-    "phase": 1,
+    "phase": 4,
     "questions": [
       {
         "seq": 1,
