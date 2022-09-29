@@ -1,16 +1,16 @@
 {
   "name": "The Moon",
-  "description": "Intrested in your grandfathers stories about his life as a phycisist, you go through his old files and find one with the title '3:56",
+  "description": "Interested in your grandfather's stories about his life as a physicist, you go through his old files and find one with the title '3:56",
   "isSequence": false,
   "phase": 0,
   "questions": [
     {
       "seq": 1,
       "title": "3:56",
-      "description": "Intrested in your grandfathers stories about his life as a phycisist, you go through his old files and find one with the title '3:56",
+      "description": "Interested in your grandfather's stories about his life as a physicist, you go through his old files and find one with the title '3:56",
       "answer": "Tranquility",
-      "pointsAwarded": 10,
-      "costOfHint": 5,
+      "pointsAwarded": 100,
+      "costOfHint": 50,
       "hint": "Look deeper into the image of the astronaut",
       "images": ["https://d26gu8tctrkwpq.cloudfront.net/moonlanding.png"]
     }

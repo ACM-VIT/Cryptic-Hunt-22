@@ -1,0 +1,18 @@
+{
+  "name": "Solfa Cipher",
+  "description": "The player is provided with an image of a WW2 rotatory decoder and a background image of a hill. The player will have to decrypt it to get the first hint. \n Player is then provided with a zipped file containing an audio and a document. Decrypt it to get the final answer.",
+  "isSequence": false,
+  "phase": 0,
+  "questions": [
+    {
+      "seq": 1,
+      "title": "Solfa Cipher",
+      "description": "The rotatory encoder isn't the only element. Look beyond the background. Some might agree that the limit is beyond the sun. \n https://solfa-cipher-acm.netlify.app/", 
+      "answer": "expecttheunexpected",
+      "pointsAwarded": 500,
+      "costOfHint": 100,
+      "hint": "Cipher name is related to the background of the homepage. For the audio related hints, check our Instagram post on what is cryptic hunt.",
+      "images": []
+    }
+  ]
+}

@@ -9,8 +9,8 @@
       "title": "Question 1",
       "description": "Analyse this audio- https://drive.google.com/file/d/1TDwS6qyarWZL0lACTNauOKf-Vghm82L0/view?usp=sharing ",
       "answer": "TUROCHAMP",
-      "pointsAwarded": "100",
-      "costofHint": "40",
+      "pointsAwarded": 100,
+      "costofHint": 50,
       "hint": "Alan Turing",
       "images": [
         "https://d26gu8tctrkwpq.cloudfront.net/chess_board.jpg"
