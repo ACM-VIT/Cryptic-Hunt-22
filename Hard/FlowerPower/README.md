@@ -39,36 +39,35 @@ And as you enjoy their sight, you continue to play.
    Seeing our Royal Merit, the other flowers fume.
    - Caesalpinia pulcherrima - peacock flower - KC Garden - sector 1
 
-2. The beautiful prince Nero's face does frown,
+2. F2:
+   The beautiful prince Nero's face does frown,
    Whatever you say, the flower does take his crown.
    What we produce is bitter, some say alkaline,
    Let's have some fun, one of them is ibogamine.
    - Pinwheelflower - Opposite PRP, SJT - Sector 3
 
-3. The beautiful starcluster, 
+3. F3:
+   The beautiful starcluster, 
    Seen from the pyramids, 
    it leaves me in a bluster.
    Bright red, in full bloom, they seem madder
    But in butterfly gardens, you're awed and gladder
    - Pentas lanceolata - near the optical store - sector 2 
 
-4. The fabulous flower, creepier than the foxglove
+4. F4:
+   The fabulous flower, creepier than the foxglove
    The progenitor of digitalis, we give your heart a shove
    The one that feeds the butterflies
    The one who has us, freely sighs.
    - Ganges primrose - Main entrance fountain - sector 1
 
-5. In the barren lands it grows,
+5. F5:
+   In the barren lands it grows,
    So good, holier than the rose.
    The venom they carry, in arrows it flies
    Hunting animals or fish, for the food to suffice
    - Adenium obesum - Near SJT - sector 3 
 
-3. Flower 1 - Location - Species - Approx area 
-4. Flower 2 - Location - Species - Approx area
-5. Flower 3 - Location - Species - Approx area
-6. Flower 4 - Location - Species - Approx area
-7. Flower 5 - Location - Species - Approx area
 6. Total locations: 5
 
 ## Hints:
