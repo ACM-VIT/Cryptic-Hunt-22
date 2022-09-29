@@ -1,0 +1,38 @@
+{
+    "name": "Scoping The Greounds",
+    "description": "Participants are given a ciphertext encoded in RSA. The Public parts of the RSA key-pair are also released and the participants have to figure out a way to break the cipher to decipher the text. The deciphered text will lead them to a particular set of numbers, which points to a publication on the internet. They have to find one of the authors in that publication, who is related to VIT. The title of that publication is the answer to the question",
+    "isSequence": true,
+    "phase": "TBD",
+    "questions": [
+        {
+            "seq": 1,
+            "title": "The Target",
+            "description": "The given image contains a hint to solve and break the ciphertext given in the attached file. You need to find the proper values for generating the keys to this popular encryption algorithm. The generators of this key-pair is the clue to the next question in the sequence",
+            "answer": "2347 2693",
+            "pointsAwarded": 1,
+            "costOfHint": 10,
+            "hint": "Sometimes numbers can be broken too",
+            "images": []
+        },
+        {
+            "seq": 2,
+            "title": "The Secret",
+            "description": "There is a specific kind of publication that is the target of the image. Find the expansion of that abbreviation.",
+            "answer": "International Standard Serial Number",
+            "pointsAwarded": 1,
+            "costOfHint": 10,
+            "hint": "Ever wondered what the barcode on your favourite book means? This is also somewhat related to that.",
+            "images": []
+        },
+        {
+            "seq": 3,
+            "title": "The Answer",
+            "description": "There is a connection between the contents of the publication and VIT. Find the title to that connection and you shall find the answer to all your woes",
+            "answer": "Intelligent Driver Assistant System: A Survey",
+            "pointsAwarded": 1,
+            "costOfHint": 10,
+            "hint": "Sometimes, you need to widen the scope of your search. Look again at the hidden clues in the image and the hints that you get.",
+            "images": []
+        }
+    ]
+}
