@@ -2,7 +2,7 @@
     "name": "Discord Morse",
     "description": "Answer must be fed to discord bot, then the yt video recieved must be decoded for the final answer",
     "isSequence": false,
-    "phase": 0,
+    "phase": 1,
     "questions": [
       {
         "seq": 1,
