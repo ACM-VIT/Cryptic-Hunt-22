@@ -2,7 +2,7 @@
     "name": "Small Wiener",
     "description": "Harsh's girlfriend wants to send a secret text to Harsh. She encrypts the message with Harsh's RSA public key which is { e: 601363702787219970639669573943, N: 701590986585091644415556358149 }.\n Here's how she encrypts the secret text: \n```python3 \nwith open(\"secret.txt\", \"r\") as f: \na = f.read().strip() \nN = 701590986585091644415556358149 \ne = 601363702787219970639669573943 \nm = int(a.encode('utf-8').hex(), 16) \nc = pow(m, e, N) \nprint(c) \n``` \nShe gets the output as: 552571332635354884887823434083 and sends it to Harsh via an insecure channel. You have successfully intercepted her message and want to know what was the secret text.  \nLooking at the public key exponent (e) which is very large, You know that **Harsh will surely have a small d** (private key exponent). \nCan you find out what the secret text was? ",
     "isSequence": false,
-    "phase": 0,
+    "phase": 3,
     "questions": [
         {
             "seq": 1,
