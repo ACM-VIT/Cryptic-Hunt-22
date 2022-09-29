@@ -2,7 +2,7 @@
     "name": "Decode 3",
     "description": "3 layer decryption",
     "isSequence": true,
-    "phase": 0,
+    "phase": 4,
     "questions": [
       {
         "seq": 1,
