@@ -9,7 +9,7 @@
 
 ## Specifications
 
-* **Entry point:** The rotatory encoder isn't the only element. Look beyond the background. Some might agree that the limit is beyond the sun. https://solfa-cipher-acm.netlify.app/ 
+* **Entry point:** The rotatory encoder isn't the only element. Look beyond the background. Some might agree that the limit is beyond the sun. https://beyond-the-expected-acm.netlify.app/ 
 * **Reward:** 500 points
 * **Requirements:** webpage, image of rotatory deoder, key to hill cipher, image of hill, audio file
 
