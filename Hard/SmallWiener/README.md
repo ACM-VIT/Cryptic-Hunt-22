@@ -138,7 +138,7 @@ pt = bytes.fromhex(temp).decode('utf-8')
 print(f"Decrypted secret text is: {pt}")
 ```
 
-6. You get the output as `Decrypted plain text is: h4R5H4v1n45H`
+6. You get the output as `Decrypted secret text is: h4R5H4v1n45H`
 
 ## Hints:
 
