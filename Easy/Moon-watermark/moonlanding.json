@@ -1,13 +1,13 @@
 {
     "name": "Moon-Watermark",
-    "description": "Interested in your grandfathers stories about his life as a physicist, you go through his old files and find one with the title '3:56' ",
+    "description": "Interested in your grandfather's stories about his life as a physicist, you go through his old files and find one with the title '3:56' ",
     "isSequence": false,
     "phase": 0,
     "questions": [
       {
         "seq": 1,
         "title": "Moon-Watermark",
-        "description": "Interested in your grandfathers stories about his life as a physicist, you go through his old files and find one with the title '3:56' ",
+        "description": "Interested in your grandfather's stories about his life as a physicist, you go through his old files and find one with the title '3:56' ",
         "answer": "Tranquility",
         "pointsAwarded": 15,
         "costOfHint": 5,
