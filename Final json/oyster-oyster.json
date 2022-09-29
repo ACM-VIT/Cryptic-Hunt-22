@@ -1,0 +1,18 @@
+{
+    "name": "Oyster Oyster",
+    "description": "The first man gets the oyster, the second man gets the shell. What will you fetch? \n Note: scan QR",
+    "isSequence": false,
+    "phase": 0,
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Oyster Oyster",
+        "description": "The first man gets the oyster, the second man gets the shell. What will you fetch? \n Note: scan QR",
+        "answer": "rgwoekyt",
+        "pointsAwarded": 100,
+        "costOfHint": 50,
+        "hint": "P18P",
+        "images": []
+      }
+    ]
+  }
