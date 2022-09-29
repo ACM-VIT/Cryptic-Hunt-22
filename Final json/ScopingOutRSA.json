@@ -7,12 +7,14 @@
         {
             "seq": 1,
             "title": "The Target",
-            "description": "The given image contains a hint to solve and break the ciphertext given in the attached file. You need to find the proper values for generating the keys to this popular encryption algorithm. The generators of this key-pair is the clue to the next question in the sequence",
+            "description": "The given image (https://tinyurl.com/RSA-image) contains a hint to solve and break the ciphertext given in the attached file(https://tinyurl.com/RSA-public). You need to find the proper values for generating the keys to this popular encryption algorithm. The generators of this key-pair is the clue to the next question in the sequence",
             "answer": "2347 2693",
             "pointsAwarded": 1,
             "costOfHint": 10,
             "hint": "Sometimes numbers can be broken too",
-            "images": []
+            "images": [
+                "https://d26gu8tctrkwpq.cloudfront.net/RSA.jpg"
+            ]
         },
         {
             "seq": 2,
