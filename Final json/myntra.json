@@ -1,0 +1,18 @@
+{
+    "name": "Myntra",
+    "description": "The sale is live!",
+    "isSequence": false,
+    "phase": 1,
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Myntra",
+        "description": "The sale is live!",
+        "answer":"Myntra Kiosk",
+        "pointsAwarded": 100,
+        "costofHint": null,
+        "hint":null,
+        "images":["https://d26gu8tctrkwpq.cloudfront.net/myntra.jpg"]
+      }
+    ]
+  }
