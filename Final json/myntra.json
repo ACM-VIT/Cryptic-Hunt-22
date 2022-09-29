@@ -2,7 +2,7 @@
     "name": "Myntra",
     "description": "The sale is live!",
     "isSequence": false,
-    "phase": 1,
+    "phase": 0,
     "questions": [
       {
         "seq": 1,
