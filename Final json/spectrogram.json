@@ -2,7 +2,7 @@
     "name": "Spectrogram",
     "description": "Reversing and viewing the spectrogram of the audio file in Audacity will reveal the answer",
     "isSequence": false,
-    "phase": 0,
+    "phase": 2,
     "questions": [
       {
         "seq": 1,
