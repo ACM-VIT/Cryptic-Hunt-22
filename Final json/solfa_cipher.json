@@ -6,7 +6,7 @@
   "questions": [
     {
       "seq": 1,
-      "title": "Solfa Cipher",
+      "title": "Beyond The Expected",
       "description": "The rotatory encoder isn't the only element. Look beyond the background. Some might agree that the limit is beyond the sun. \n https://solfa-cipher-acm.netlify.app/", 
       "answer": "expecttheunexpected",
       "pointsAwarded": 500,
