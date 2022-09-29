@@ -19,14 +19,12 @@
         {
             "seq": 2,
             "title": "Let's get movin'",
-            "description": "\"Do not merely listen to the word, and so deceive yourselves. Do what it says.\"",
+            "description": "\"Do not merely listen to the word, and so deceive yourselves. Do what it says.\" And it says to go to the canteen at the global developing network",
             "answer": "me",
             "pointsAwarded": 75,
             "costOfHint": 35,
             "hint": "Which bible verse does the scripture belong to?",
-            "images": [
-                "https://d26gu8tctrkwpq.cloudfront.net/fishes.png"
-            ]
+            "images": [ ]
         },
         {
             "seq": 3,
@@ -36,7 +34,7 @@
             "pointsAwarded": 100,
             "costOfHint": 50,
             "hint": "Use twofish cipher with the given binary file",
-            "images": []
+            "images": ["https://d26gu8tctrkwpq.cloudfront.net/fishes.png"]
         }
     ]
 }
