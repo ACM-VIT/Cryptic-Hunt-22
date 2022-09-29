@@ -1,0 +1,46 @@
+{
+    "name": "Flower Power",
+    "description": "Campus is divided into 3 sectors: 
+    - main gate to dc
+    - dc to c and d block
+    - c and d block to mgb
+    
+    Dew laden, the little petals are weighed down
+    Sometimes they precurse a smile, or maybe a frown
+    Silent secrets, these beauties hide,
+    In them, your points we confide.
+    Find where they lay
+    And as you enjoy their sight, you continue to play.",
+    "isSequence": false,
+    "phase": 0,
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Flower 1",
+        "description": "sector 1.
+        Prettier petals than a rose, the pride of Barbados.
+        Poisonous pellets we hold for those who consume
+        Seeing our Royal Merit, the other flowers fume.",
+        "answer": "peacock flower",
+        "pointsAwarded": 1,
+        "costOfHint": null,
+        "hint": null,
+        "images": [
+            
+        ]
+      },
+      {
+        "seq": 2,
+        "title": "Q Title",
+        "description": "Q Description",
+        "answer": "ans1",
+        "pointsAwarded": 1,
+        "costOfHint": 15,
+        "hint": "hint 1",
+        "images": [
+          "https://www.gstatic.com/devrel-devsite/prod/vffb6f747a4a347f610c19877672b152494f6401418724d2bc2f21104794d57bc/firebase/images/lockup.svg"
+        ]
+      }
+    ]
+  }
+  
