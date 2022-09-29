@@ -2,7 +2,7 @@
     "name": "Hex_Caesar_IronMan",
     "description": "Iron Man Question",
     "isSequence": true,
-    "phase": 1,
+    "phase": 0,
     "questions": [
       {
         "seq": 1,
