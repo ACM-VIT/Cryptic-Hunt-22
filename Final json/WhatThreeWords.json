@@ -2,7 +2,7 @@
     "name": "ThreeWordsWhat",
     "description": "Use WhatThreeWords",
     "isSequence": true,
-    "phase": 1,
+    "phase": 0,
     "questions": [
       {
         "seq": 1,
