@@ -2,7 +2,7 @@
     "name": "Sliding Puzzle",
     "description": "A Sliding puzzle that then needs to decrypt the cipher",
     "isSequence": false,
-    "phase": 0,
+    "phase": 2,
     "questions": [
       {
         "seq": 1,
