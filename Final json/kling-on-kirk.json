@@ -6,10 +6,10 @@
     "questions": [
       {
         "seq": 1,
-        "title": "Sheldon's C-men",
+        "title": "Kling-on Kirk",
         "description": "There is a cryptic secret hidden by the creators of this hunt and it is your job, intepid hunters, to hunt for them and decode what they mean! May the codes be with you, on your trek.",
         "answer": "When cold revenge is served, the dish is always very good",
-        "pointsAwarded": 100,
+        "pointsAwarded": 250,
         "costOfHint": null,
         "hint": null,
         "images": []
