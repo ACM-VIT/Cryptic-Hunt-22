@@ -1,46 +1,120 @@
 {
-    "name": "Flower Power",
-    "description": "Campus is divided into 3 sectors: 
-    - main gate to dc
-    - dc to c and d block
-    - c and d block to mgb
-    
-    Dew laden, the little petals are weighed down
-    Sometimes they precurse a smile, or maybe a frown
-    Silent secrets, these beauties hide,
-    In them, your points we confide.
-    Find where they lay
-    And as you enjoy their sight, you continue to play.",
-    "isSequence": false,
-    "phase": 0,
-    "questions": [
-      {
-        "seq": 1,
-        "title": "Flower 1",
-        "description": "sector 1.
-        Prettier petals than a rose, the pride of Barbados.
-        Poisonous pellets we hold for those who consume
-        Seeing our Royal Merit, the other flowers fume.",
-        "answer": "peacock flower",
-        "pointsAwarded": 1,
-        "costOfHint": null,
-        "hint": null,
-        "images": [
-            
-        ]
-      },
-      {
-        "seq": 2,
-        "title": "Q Title",
-        "description": "Q Description",
-        "answer": "ans1",
-        "pointsAwarded": 1,
-        "costOfHint": 15,
-        "hint": "hint 1",
-        "images": [
-          "https://www.gstatic.com/devrel-devsite/prod/vffb6f747a4a347f610c19877672b152494f6401418724d2bc2f21104794d57bc/firebase/images/lockup.svg"
-        ]
-      }
-    ]
-  }
-  
+  "name": "Flower Power",
+  "description": "Campus is divided into 3 sectors: 
+              - main gate to dc cafe
+              - dc cafe to c and d block (Saravana Medcals)
+              - c and d block (Saravana medicals) to mgb
+              
+              Dew laden, the little petals are weighed down
+              Sometimes they precurse a smile, or maybe a frown
+              Silent secrets, these beauties hide,
+              In them, your points we confide.
+              Find their botanical names, search for where they lay
+              And as you enjoy their sight, you continue to play.",
+  "isSequence": false,
+  "phase": 0,
+  "questions": [
+    {
+      "seq": 1,
+      "title": "The Flower Run",
+      "description": "The Flower Fairies
+      Dew laden, the little petals are weighed down
+      Sometimes they precurse a smile, or maybe a frown
+      Silent secrets, these beauties hide,
+      In them, your points we confide.
+      Find their botanical names, search for where they lay
+      And as you enjoy their sight, you continue to play.
+      
+      Sector 1 - Main Gate to DC Cafe.
+      Sector 2 - DC Cafe to Saravana Medicals.
+      Sector 3 - Sarvana Medicals to MGB.
+      The answer is 'Flowers'.",
+      "answer": "Flowers",
+      "pointsAwarded": 0,
+      "costOfHint": null,
+      "hint": null,
+      "images": []
+    },
+    {
+      "seq": 2,
+      "title": "Flower 1",
+      "description": "
+      Sector 1 - Main Gate to DC Cafe.
+      
+      Prettier petals than a rose, the pride of Barbados.
+      Poisonous pellets we hold for those who consume
+      Seeing our Royal Merit, the other flowers fume.",
+      "answer": "Caesalpinia pulcherrima",
+      "pointsAwarded": 100,
+      "costOfHint": null,
+      "hint": null,
+      "images": []
+    },
+    {
+      "seq": 3,
+      "title": "Flower 2",
+      "description": "
+      Sector 3 - Sarvana Medicals to MGB.
+      
+      The beautiful prince Nero's face does frown,
+      Whatever you say, the flower does take his crown.
+      What we produce is bitter, some say alkaline,
+      Let's have some fun, one of them is ibogamine.",
+      "answer": "Tabernaemontana divaricata",
+      "pointsAwarded": 100,
+      "costOfHint": null,
+      "hint": null,
+      "images": []
+    },
+    {
+      "seq": 4,
+      "title": "Flower 3",
+      "description": "
+      Sector 1 - Main Gate to DC Cafe.
+      
+      The fabulous flower, creepier than the foxglove
+      The progenitor of digitalis, we give your heart a shove
+      The one that feeds the butterflies
+      The one who has us, freely sighs.",
+      "answer": "Asystasia gangetica",
+      "pointsAwarded": 100,
+      "costOfHint": null,
+      "hint": null,
+      "images": []
+    },
+    {
+      "seq": 5,
+      "title": "Flower 4",
+      "description": "
+      Sector 3 - Sarvana Medicals to MGB.
+      
+      In the barren lands it grows,
+      So good, holier than the rose.
+      The venom they carry, in arrows it flies
+      Hunting animals or fish, for the food to suffice",
+      "answer": "Adenium obesum",
+      "pointsAwarded": 100,
+      "costOfHint": null,
+      "hint": null,
+      "images": []
+    },
+    {
+      "seq": 6,
+      "title": "Flower 5",
+      "description": "
+      Sector 2 - DC Cafe to Saravana Medicals.
+      
+      The beautiful starcluster, 
+      Seen from the pyramids, 
+      it leaves me in a bluster.
+      Bright red, in full bloom, they seem madder
+      But in butterfly gardens, you're awed and gladder",
+      "answer": "Pentas lanceolata",
+      "pointsAwarded": 100,
+      "costOfHint": null,
+      "hint": null,
+      "images": []
+    },
+  ]
+}
+
