@@ -1,0 +1,19 @@
+{
+    "name": "Spectrogram",
+    "description": "Reversing and viewing the spectrogram of the audio file in Audacity will reveal the answer",
+    "isSequence": false,
+    "phase": 0,
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Wait, What was that?",
+        "description": "Sometimes motivation is what you need, try playing the audio file in - https://tinyurl.com/hnhdfb85",
+        "answer": "RedTag",
+        "pointsAwarded": 250,
+        "costOfHint": 50,
+        "hint": "Use Audacity - a tool used to manipulate audio files",
+        "images": []
+      }
+    ]
+  }
+  

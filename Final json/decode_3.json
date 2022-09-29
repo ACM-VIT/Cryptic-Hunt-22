@@ -1,0 +1,40 @@
+{
+    "name": "Decode 3",
+    "description": "3 layer decryption",
+    "isSequence": true,
+    "phase": 0,
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Spelling Error",
+        "description": "Check the spelling! Maybe the answer lies in the mistake. 'This is wn exanple of thos ciphet' ",
+        "answer": "amir",
+        "pointsAwarded": 20,
+        "costOfHint": null,
+        "hint": null,
+        "images": []
+      },
+      {
+        "seq": 2,
+        "title": "Wingding Font",
+        "description": "Redbull gave this text wings! '🕈︎♓︎■︎♑︎♎︎♓︎■︎♑︎' ",
+        "answer": "Wingding",
+        "pointsAwarded": 40,
+        "costOfHint": 20,
+        "hint": "Use a word editor and change the font",
+        "images": []
+      },
+      {
+        "seq": 3,
+        "title": "Maritime Flag",
+        "description": "Ahoy matey! Wait are you a pirate or part of the navy?",
+        "answer": "FLAGCIPHER",
+        "pointsAwarded": 40,
+        "costOfHint": 20,
+        "hint": "This is a language/cipher the navy uses",
+        "images": [
+          "https://d26gu8tctrkwpq.cloudfront.net/flag_cipher.jpg"
+        ]
+      }
+    ]
+  }
