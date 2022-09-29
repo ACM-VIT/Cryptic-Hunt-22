@@ -1,0 +1,17 @@
+{
+    "name": "Robot",
+    "description": "TT Question",
+    "isSequence": false,
+    "phase": 1,
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Decode this lol",
+        "description": "S🔑85 xMOunB2>%cCxXl-D2E?EBZ!]mv@DiqCvtP6xG{V6rb=.Eg/=OnyF[{<fGI6G",
+        "answer": "enthiran",
+        "pointsAwarded": 100,
+        "costofHint": 50,
+        "hint": "ASCII 85"
+      }
+    ]
+  }
