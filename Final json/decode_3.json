@@ -1,8 +1,8 @@
 {
-    "name": "Decode 3",
+    "name": "P3-4",
     "description": "3 layer decryption",
     "isSequence": true,
-    "phase": 4,
+    "phase":3,
     "questions": [
       {
         "seq": 1,
