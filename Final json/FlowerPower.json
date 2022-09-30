@@ -1,34 +1,13 @@
 {
   "name": "Flower Power",
-  "description": "Campus is divided into 3 sectors: 
-              - main gate to dc cafe
-              - dc cafe to c and d block (Saravana Medcals)
-              - c and d block (Saravana medicals) to mgb
-              
-              Dew laden, the little petals are weighed down
-              Sometimes they precurse a smile, or maybe a frown
-              Silent secrets, these beauties hide,
-              In them, your points we confide.
-              Find their botanical names, search for where they lay
-              And as you enjoy their sight, you continue to play.",
+  "description": "Campus is divided into 3 sectors:\n- main gate to dc cafe\n- dc cafe to c and d block (Saravana Medcals)\n- c and d block (Saravana medicals) to mgb\nDew laden, the little petals are weighed down\nSometimes they precurse a smile, or maybe a frown\nSilent secrets, these beauties hide,\nIn them, your points we confide.\nFind their botanical names, search for where they lay\nAnd as you enjoy their sight, you continue to play.",
   "isSequence": false,
   "phase": 0,
   "questions": [
     {
       "seq": 1,
       "title": "The Flower Run",
-      "description": "The Flower Fairies
-      Dew laden, the little petals are weighed down
-      Sometimes they precurse a smile, or maybe a frown
-      Silent secrets, these beauties hide,
-      In them, your points we confide.
-      Find their botanical names, search for where they lay
-      And as you enjoy their sight, you continue to play.
-      
-      Sector 1 - Main Gate to DC Cafe.
-      Sector 2 - DC Cafe to Saravana Medicals.
-      Sector 3 - Sarvana Medicals to MGB.
-      The answer is 'Flowers'.",
+      "description": "The Flower Fairies\nDew laden, the little petals are weighed down\nSometimes they precurse a smile, or maybe a frown\nSilent secrets, these beauties hide,\nIn them, your points we confide.\nFind their botanical names, search for where they lay\nAnd as you enjoy their sight, you continue to play.\n\nSector 1 - Main Gate to DC Cafe.\nSector 2 - DC Cafe to Saravana Medicals.\nSector 3 - Sarvana Medicals to MGB.\nThe answer is 'Flowers'.",
       "answer": "Flowers",
       "pointsAwarded": 0,
       "costOfHint": null,
@@ -38,12 +17,7 @@
     {
       "seq": 2,
       "title": "Flower 1",
-      "description": "
-      Sector 1 - Main Gate to DC Cafe.
-      
-      Prettier petals than a rose, the pride of Barbados.
-      Poisonous pellets we hold for those who consume
-      Seeing our Royal Merit, the other flowers fume.",
+      "description": "Sector 1 - Main Gate to DC Cafe.\n\nPrettier petals than a rose, the pride of Barbados.\nPoisonous pellets we hold for those who consume\nSeeing our Royal Merit, the other flowers fume.",
       "answer": "Caesalpinia pulcherrima",
       "pointsAwarded": 100,
       "costOfHint": null,
@@ -53,13 +27,7 @@
     {
       "seq": 3,
       "title": "Flower 2",
-      "description": "
-      Sector 3 - Sarvana Medicals to MGB.
-      
-      The beautiful prince Nero's face does frown,
-      Whatever you say, the flower does take his crown.
-      What we produce is bitter, some say alkaline,
-      Let's have some fun, one of them is ibogamine.",
+      "description": "Sector 3 - Sarvana Medicals to MGB.\n\nThe beautiful prince Nero's face does frown,\nWhatever you say, the flower does take his crown.\nWhat we produce is bitter, some say alkaline,\nLet's have some fun, one of them is ibogamine.",
       "answer": "Tabernaemontana divaricata",
       "pointsAwarded": 100,
       "costOfHint": null,
@@ -69,13 +37,7 @@
     {
       "seq": 4,
       "title": "Flower 3",
-      "description": "
-      Sector 1 - Main Gate to DC Cafe.
-      
-      The fabulous flower, creepier than the foxglove
-      The progenitor of digitalis, we give your heart a shove
-      The one that feeds the butterflies
-      The one who has us, freely sighs.",
+      "description": "\nSector 1 - Main Gate to DC Cafe.\n\nThe fabulous flower, creepier than the foxglove\nThe progenitor of digitalis, we give your heart a shove\nThe one that feeds the butterflies\nThe one who has us, freely sighs.",
       "answer": "Asystasia gangetica",
       "pointsAwarded": 100,
       "costOfHint": null,
@@ -85,13 +47,7 @@
     {
       "seq": 5,
       "title": "Flower 4",
-      "description": "
-      Sector 3 - Sarvana Medicals to MGB.
-      
-      In the barren lands it grows,
-      So good, holier than the rose.
-      The venom they carry, in arrows it flies
-      Hunting animals or fish, for the food to suffice",
+      "description": "Sector 3 - Sarvana Medicals to MGB.\n\nIn the barren lands it grows,\nSo good, holier than the rose.\nThe venom they carry, in arrows it flies\nHunting animals or fish, for the food to suffice",
       "answer": "Adenium obesum",
       "pointsAwarded": 100,
       "costOfHint": null,
@@ -101,14 +57,7 @@
     {
       "seq": 6,
       "title": "Flower 5",
-      "description": "
-      Sector 2 - DC Cafe to Saravana Medicals.
-      
-      The beautiful starcluster, 
-      Seen from the pyramids, 
-      it leaves me in a bluster.
-      Bright red, in full bloom, they seem madder
-      But in butterfly gardens, you're awed and gladder",
+      "description": "Sector 2 - DC Cafe to Saravana Medicals.\n\nThe beautiful starcluster,\nSeen from the pyramids,\nit leaves me in a bluster.\nBright red, in full bloom, they seem madder\nBut in butterfly gardens, you're awed and gladder",
       "answer": "Pentas lanceolata",
       "pointsAwarded": 100,
       "costOfHint": null,
