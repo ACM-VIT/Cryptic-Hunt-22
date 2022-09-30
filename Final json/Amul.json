@@ -2,7 +2,7 @@
   "name": "Amul",
   "description": "Go to Amul to scan QR",
   "isSequence": false,
-  "phase": 0,
+  "phase": 1,
   "questions": [
     {
       "seq": 1,
