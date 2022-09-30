@@ -2,7 +2,7 @@
     "name": "Home",
     "description": "Home question",
     "isSequence": true,
-    "phase": 1,
+    "phase": 2,
     "questions": [
       {
         "seq": 1,
