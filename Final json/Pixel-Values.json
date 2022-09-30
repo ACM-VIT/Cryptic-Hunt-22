@@ -2,7 +2,7 @@
     "name": "Pixel Values",
     "description": "Click here to solve a millenium problem.",
     "isSequence": false,
-    "phase": 0,
+    "phase": 2,
     "questions": [
         {
             "seq": 1,
