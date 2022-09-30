@@ -8,10 +8,10 @@
         "seq": 1,
         "title": "Domino Effect",
         "description": "To get where the action's at, use this chain reaction",
-        "answer":"Domino's Kiosk ",
+        "answer": "Domino's Kiosk",
         "pointsAwarded": 100,
         "costofHint": null,
-        "hint":null,
+        "hint": null,
         "images":["https://d26gu8tctrkwpq.cloudfront.net/domino.jpg"]
       }
     ]
