@@ -1,5 +1,5 @@
 {
-    "name": "Scoping The Greounds",
+    "name": "P3-3",
     "description": "Participants are given a ciphertext encoded in RSA. The Public parts of the RSA key-pair are also released and the participants have to figure out a way to break the cipher to decipher the text. The deciphered text will lead them to a particular set of numbers, which points to a publication on the internet. They have to find one of the authors in that publication, who is related to VIT. The title of that publication is the answer to the question",
     "isSequence": true,
     "phase": 3,
@@ -7,7 +7,7 @@
         {
             "seq": 1,
             "title": "The Target",
-            "description": "The given image (https://tinyurl.com/RSA-image) contains a hint to solve and break the ciphertext given in the attached file(https://tinyurl.com/RSA-public). You need to find the proper values for generating the keys to this popular encryption algorithm. The generators of this key-pair is the clue to the next question in the sequence",
+            "description": "The given image (https://tinyurl.com/RSA-image) contains a hint to solve and break the ciphertext given in the attached file(https://tinyurl.com/RSA-public). You need to find the proper values for generating the keys to this popular encryption algorithm. The generators of this key-pair is the clue to the next question in the sequence Note:This question involves no QR",
             "answer": "2347 2693",
             "pointsAwarded": 1,
             "costOfHint": 10,
