@@ -7,7 +7,7 @@
         {
             "seq": 1,
             "title": "Harsh's girlfriend",
-            "description": "Harsh's girlfriend wants to send a secret text to Harsh. She encrypts the message with Harsh's RSA public key which is { e: 601363702787219970639669573943, N: 701590986585091644415556358149 }. The image given below shows how she has encrypted the secret text. She gets the output as: 552571332635354884887823434083 and sends it to Harsh via an insecure channel. You have successfully intercepted her message and want to know what the secret text was. Looking at the public key exponent (e) which is very large, You know that Harsh will surely have a small d (private key exponent). Can you find out what the secret text was?",
+            "description": "Harsh's girlfriend wants to send a secret text to Harsh. She encrypts the message with Harsh's RSA public key which is { e: 601363702787219970639669573943, N: 701590986585091644415556358149 }. The image given below shows how she has encrypted the secret text. She gets the output as: 552571332635354884887823434083 and sends it to Harsh via an insecure channel. You have successfully intercepted her message and want to know what the secret text was. Looking at the public key exponent (e) which is very large, You know that Harsh will surely have a small d (private key exponent). Can you find out what the secret text was? Note:This question involves no QR",
             "answer": "h4R5H4v1n45H",
             "pointsAwarded": 500,
             "costOfHint": 150,
