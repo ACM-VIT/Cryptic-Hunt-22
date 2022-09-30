@@ -2,7 +2,7 @@
     "name": "Get Groooovy",
     "description": "Do you know that feeling of listening to a song at a public place like a mall or a bowling alley and thinking, \"Man, I've heard that one before!\"? Because same.",
     "isSequence": true,
-    "phase": 2,
+    "phase": 4,
     "questions": [
         {
             "seq": 1,
