@@ -1,5 +1,5 @@
 {
-    "name": "Trace-The-Parcel",
+    "name": "Phase 4-2",
     "description": "The villian is on the run! Move forward to catch them.",
     "isSequence": true,
     "phase":4,
@@ -7,7 +7,7 @@
         {
             "seq": 1,
             "title": "Trace the place",
-            "description": "Good Evening, Ms. Croft. The villain is on the run, but left this crucial piece of parchement behind. We need to pursue them asap. Trace the origin of this bill to track them down.",
+            "description": "Good Evening, Ms. Croft. The villain is on the run, but left this crucial piece of parchement behind. We need to pursue them asap. Trace the origin of this bill to track them down.(Note:This involves scanning QR code)",
             "answer": "8NkG8iHD",
             "pointsAwarded": 20,
             "costOfHint": null,
@@ -20,7 +20,7 @@
         {
             "seq": 2,
             "title": "Almost!",
-            "description": "You're on the right path! The villain is just a few steps away. Trace them to their evil lair. A family friend is here to help you. Scan the qr code to get help.",
+            "description": "You're on the right path! The villain is just a few steps away. Trace them to their evil lair. A family friend is here to help you. Scan the qr code to get help.(Note:This involves scanning QR code)",
             "answer": "RihZPBuj",
             "pointsAwarded": 30,
             "costOfHint": null,
@@ -33,7 +33,7 @@
         {
             "seq": 3,
             "title": "Finally!.",
-            "description": "https://youtu.be/F_vMzVl4MaU",
+            "description": "https://youtu.be/F_vMzVl4MaU (Note:This involves scanning QR code) ",
             "answer": "AdLHNEXN",
             "pointsAwarded": 50,
             "costOfHint": null,
