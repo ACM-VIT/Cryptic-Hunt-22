@@ -1,0 +1,18 @@
+{
+  "name": "Amul",
+  "description": "Go to Amul to scan QR",
+  "isSequence": false,
+  "phase": 0,
+  "questions": [
+    {
+      "seq": 1,
+      "title": "Scan the QR at the location!",
+      "description": "Utterly Butterly Delicious",
+      "answer": "icecream",
+      "pointsAwarded": 100,
+      "costOfHint": 50,
+      "hint": "Search the phrase on google.",
+      "images": []
+    }
+  ]
+}
