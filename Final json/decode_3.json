@@ -7,7 +7,7 @@
       {
         "seq": 1,
         "title": "Spelling Error",
-        "description": "Check the spelling! Maybe the answer lies in the mistake. 'This is wn exanple of thos ciphet' ",
+        "description": "Check the spelling! Maybe the answer lies in the mistake. 'This is wn exanple of thos ciphet' Note:This question involves no QR",
         "answer": "amir",
         "pointsAwarded": 20,
         "costOfHint": null,
