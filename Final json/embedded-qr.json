@@ -2,12 +2,12 @@
     "name": "Embedded QR",
     "description": "A video link is given (bit-plane ans in transcript), QR code inside the img on scanning gives answer",
     "isSequence": false,
-    "phase": 3,
+    "phase": 2,
     "questions": [
       {
         "seq": 1,
         "title": "Embedded QR",
-        "description": "Check this video out, https://www.youtube.com/watch?v=2NbxOAcrvs8 , maybe play it in a language you'd understand? https://tinyurl.com/embedded-img",
+        "description": "Check this video out, https://www.youtube.com/watch?v=2NbxOAcrvs8 , maybe play it in a language you'd understand? https://tinyurl.com/embedded-img  Note:This question has no QR",
         "answer": "engineer",
         "pointsAwarded": 500,
         "costOfHint": 100,
