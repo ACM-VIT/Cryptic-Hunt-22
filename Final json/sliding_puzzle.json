@@ -1,5 +1,5 @@
 {
-    "name": "Sliding Puzzle",
+    "name": "P2-3",
     "description": "A Sliding puzzle that then needs to decrypt the cipher",
     "isSequence": false,
     "phase": 2,
