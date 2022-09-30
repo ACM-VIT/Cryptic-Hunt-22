@@ -1,8 +1,8 @@
 {
   "name": "Flower Power",
-  "description": "Campus is divided into 3 sectors:\n- main gate to dc cafe\n- dc cafe to c and d block (Saravana Medcals)\n- c and d block (Saravana medicals) to mgb\nDew laden, the little petals are weighed down\nSometimes they precurse a smile, or maybe a frown\nSilent secrets, these beauties hide,\nIn them, your points we confide.\nFind their botanical names, search for where they lay\nAnd as you enjoy their sight, you continue to play.",
+  "description": "Campus is divided into 3 sectors:\n- main gate to dc cafe\n- dc cafe to c and d block (Saravana Medicals)\n- c and d block (Saravana medicals) to mgb\nDew laden, the little petals are weighed down\nSometimes they precurse a smile, or maybe a frown\nSilent secrets, these beauties hide,\nIn them, your points we confide.\nFind their botanical names, search for where they lay\nAnd as you enjoy their sight, you continue to play.",
   "isSequence": false,
-  "phase": 0,
+  "phase": 3,
   "questions": [
     {
       "seq": 1,
