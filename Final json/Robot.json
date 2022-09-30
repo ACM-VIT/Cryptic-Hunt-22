@@ -2,7 +2,7 @@
     "name": "Robot",
     "description": "TT Question",
     "isSequence": false,
-    "phase": 1,
+    "phase": 3,
     "questions": [
       {
         "seq": 1,
