@@ -2,7 +2,7 @@
     "name": "Scoping The Greounds",
     "description": "Participants are given a ciphertext encoded in RSA. The Public parts of the RSA key-pair are also released and the participants have to figure out a way to break the cipher to decipher the text. The deciphered text will lead them to a particular set of numbers, which points to a publication on the internet. They have to find one of the authors in that publication, who is related to VIT. The title of that publication is the answer to the question",
     "isSequence": true,
-    "phase": "TBD",
+    "phase": 3,
     "questions": [
         {
             "seq": 1,
