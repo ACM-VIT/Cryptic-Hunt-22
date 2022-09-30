@@ -1,5 +1,5 @@
 {
-    "name": "Wait, What was that?",
+    "name": "P2-2",
     "description": "Reversing and viewing the spectrogram of the audio file in Audacity will reveal the answer",
     "isSequence": false,
     "phase": 2,
