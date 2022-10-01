@@ -1,0 +1,20 @@
+{
+    "name": "Assassin's Creed Question",
+    "description": "Decrypt The Pigpen Cipher ",
+    "isSequence": false,
+    "phase": 0, 
+    "questions": [
+      {
+        "seq": 1,
+        "title": "Ezio Auditore",
+        "description": "Requiescat in Pace",
+        "answer": "democracy",
+        "pointsAwarded": 100,
+        "costOfHint": 50,
+        "hint": "Cipher used in Assassin's Creed games" ,
+        "images": [ 
+          "https://i.imgur.com/jIBVIt6.jpg"       
+        ]
+      }
+    ]
+  }
