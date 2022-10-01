@@ -8,8 +8,8 @@
         "seq": 1,
         "title": "Ezio Auditore",
         "description": "Requiescat in Pace",
-        "answer": "democracyACM",
-        "pointsAwarded": 100,
+        "answer": "democracy",
+        "pointsAwarded": 300,
         "costOfHint": 50,
         "hint": "Cipher used in Assassin's Creed games" ,
         "images": [ 
